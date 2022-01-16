@@ -18,7 +18,7 @@ import org.junit.Test;
  */
 
 public class AppTest {
-    static String excelFilePath = "D://TestData.xls";
+    static String excelFilePath = "//TestData.xls";
     static String sheetName = "Data";
     static Workbook workbook;
     static int ColIndex_IssueKey;
